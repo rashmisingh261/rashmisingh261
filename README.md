@@ -2,14 +2,23 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmi1526&label=Profile%20views&color=0e75b6&style=flat" alt="trongbui1105" /> </p>
+
 <p>
-Hi, I'm Rashmi Singh, a passionate Front-end Developer.
-  
-  
-- 🎓 I'm currently a pre-final year student at ABES Engineering College, Ghaziabad.
-- 🔎 I'm looking forward to contribute to some open source Front-end Development projects. 
-- 👨‍💻 You can have a look on my portfolio through  [https://rashmi1526.github.io/portfolio/](https://rashmi1526.github.io/portfolio/)
-- 📫 Reach me at **rashmisingh261@outlook.com**
+With <b>2 years of hands-on experience in network security</b>, I specialize in strengthening IT infrastructures through secure connectivity and protection against emerging cyber threats. My work spans firewall & VPN management, IDS/IPS, vulnerability assessments, and network monitoring to ensure resilience and business continuity.
+</p>
+
+### 🔐 Core Competencies:
+- Network Security & Configuration  
+- Firewall / VPN Administration  
+- IDS/IPS & Vulnerability Assessment  
+- Incident Response Support  
+- Network Monitoring & Reporting  
+- Security Policy & Documentation  
+
+---
+
+📫 Reach me at **rashmisingh261@outlook.com**  
+🌐 Portfolio: [rashmi1526.github.io/portfolio](https://rashmisingh.netlify.app/)
 
 ***
 
