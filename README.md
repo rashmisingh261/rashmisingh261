@@ -1,42 +1,56 @@
-## Hi there, I'm [**Rashmi!**](https://github.com/rashmi1526) 
+# Hi there, I'm [Rashmi Singh](https://github.com/rashmisingh261) 👋
 
+### Network Security Engineer | Network Development | Automation & Security
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmi1526&label=Profile%20views&color=0e75b6&style=flat" alt="trongbui1105" /> </p>
+I'm a Network Security Engineer passionate about building, securing, and automating enterprise network infrastructures.
 
-<p>
-With <b>2 years of hands-on experience in network security</b>, I specialize in strengthening IT infrastructures through secure connectivity and protection against emerging cyber threats. My work spans firewall & VPN management, IDS/IPS, vulnerability assessments, and network monitoring to ensure resilience and business continuity.
-</p>
+My professional journey began at **Cisco**, where I worked on enterprise VPN and firewall technologies, solving complex networking challenges and developing expertise in secure connectivity. I'm currently at **Palo Alto Networks**, working with enterprise security technologies and exploring modern approaches to network security, SASE, and cloud-delivered security.
 
-### 🔐 Core Competencies:
-- Network Security & Configuration  
-- Firewall / VPN Administration  
-- IDS/IPS & Vulnerability Assessment  
-- Incident Response Support  
-- Network Monitoring & Reporting  
-- Security Policy & Documentation  
+I enjoy going beyond troubleshooting — understanding network architecture, automating complex workflows, experimenting with emerging technologies, and building practical solutions.
+
+### 🔐 Technical Expertise
+
+- **Network Security:** Firewalls, IPsec, IKEv1/IKEv2, SSL VPN, SASE, ZTNA
+- **Cisco Technologies:** ASA, ASAv, FTD, FMC, AnyConnect, DMVPN, GETVPN
+- **Palo Alto Networks:** PAN-OS, Prisma Access, GlobalProtect
+- **Networking:** BGP, OSPF, Routing, Switching, Network Architecture
+- **Identity & Access:** SAML, MFA, Cisco ISE, Microsoft Entra ID, Okta
+- **Automation & Programming:** Python, Netmiko, REST APIs, Bash, Git
+- **Troubleshooting & Analysis:** Wireshark, Packet Captures, Linux, Network Diagnostics
+
+### 🛠️ What I'm Building & Exploring
+
+- **[CertWatch](https://github.com/rashmisingh261/certwatch):** An open-source tool for TLS certificate inspection, comparison, and monitoring.
+- **Network Automation:** Developing Python-based solutions to simplify network configuration and operational workflows.
+- **Security Labs:** Experimenting with VPN architectures, firewalls, cloud networking, and secure connectivity.
+- **AI & Network Engineering:** Exploring how AI and automation can improve network operations and engineering workflows.
+
+### 🌱 Beyond Technology
+
+- Open-source development and contributing to the tech community
+- Artificial Intelligence and automation
+- Anime, manga, and continuous learning
+- Travelling, hiking, and exploring new places
+- Cooking and volunteering for education initiatives
+
+### 📫 Let's Connect
+
+- **Email:** rashmisingh261@outlook.com
+- **GitHub:** [github.com/rashmisingh261](https://github.com/rashmisingh261)
+- **Portfolio:** [rashmi's portfolio](https://rashmisingh.netlify.app/)
 
 ---
 
-📫 Reach me at **rashmisingh261@outlook.com**  
-🌐 Portfolio: [rashmi1526.github.io/portfolio](https://rashmisingh.netlify.app/)
+### 📊 GitHub Statistics
 
-***
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rashmisingh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashmisingh_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rashmi_1526" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rashmi_1526" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rashmi_1526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rashmi_1526" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rashmi_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rashmi_26" height="30" width="40" /></a>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmisingh261&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rashmisingh261&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" />
+</p>
 
-
-
-<p><img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmi1526&show_icons=true&locale=en&layout=compact&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&hide=css,php,twig" alt="rashmi1526" /></p>
-
-<p>&nbsp;<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=rashmi1526&show_icons=true&locale=en&bg_color=-45,25132E,DC0D4A,61A9A6,C5D6B5,98BE85&title_color=C197D2&text_color=ffffff&hide_border=true&hide=css,php" alt="rashmi1526" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmi1526&" alt="rashmi1526" /></p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashmisingh261&hide_border=true" alt="GitHub Streak" />
+</p>
