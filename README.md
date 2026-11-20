@@ -42,15 +42,13 @@ I enjoy going beyond troubleshooting — understanding network architecture, aut
 ---
 
 ### 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
-<p align="left">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmisingh261&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rashmisingh261&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmisingh261&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="left">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rashmisingh261&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashmisingh261&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmisingh261&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
